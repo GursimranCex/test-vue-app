@@ -5,6 +5,7 @@
 </template>
 
 <script>
+//Adding for testing
 export default {
   name: "HelloWorld",
   props: {
